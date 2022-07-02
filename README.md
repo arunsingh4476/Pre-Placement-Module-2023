@@ -1,9 +1,9 @@
 # Pre-Placement-Module-2023
 
-- Name: 
-- University Roll No.:
-- Branch:
-- Section:
+- Name: Arun Kumar Singh
+- University Roll No.:1900290310031
+- Branch:ECE
+- Section:A
 - Preferred Programming Language: C++/Java/Python
 
 ## Coding Profiles
